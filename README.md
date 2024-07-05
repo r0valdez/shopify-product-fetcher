@@ -20,6 +20,11 @@ This script fetches products from a Shopify store using Shopify's GraphQL API. I
     ```bash
     npm install
     ```
+3. **Set up env:**
+    ```bash
+    SHOPIFY_DOMAIN=XXXXX
+    SHOPIFY_ACCESS_TOKEN=XXXXX
+    ```
 
 ## Usage
 
